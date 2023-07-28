@@ -26,7 +26,7 @@
 body{
     background-color: #141515;
     font-family: var(--fonte-padrao);
-    background-image: url('/imagens/download.jpeg');
+    background-image: url('../imagens/download.jpeg');
 }
 a.externo::after{
     content: '\000A0\1F517';
